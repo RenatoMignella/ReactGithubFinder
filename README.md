@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# GithubFinder with React
+
+# Check this out: https://gitmigfinder3737902.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
